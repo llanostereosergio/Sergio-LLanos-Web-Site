@@ -1,0 +1,126 @@
+body {
+    font-family: "Montserrat";
+}
+
+#title {
+    background-image: linear-gradient(to left bottom, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    color: #ffffff;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.ml-auto {
+    margin-left: auto;
+}
+
+h1 {
+    font-family: Montserrat-black;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h2 {
+    color: #fff;
+    font-family: Montserrat-black;
+    font-size: 3rem;
+    text-align: center;
+}
+
+h3 {
+    color: #92967d;
+}
+
+p {
+    color: #92967d;
+    font-family: "Montserrat-Bold";
+    font-weight: 900;
+    text-align: center;
+}
+
+/* Buttons */
+
+.contact-button {
+    margin-top: 10%;
+}
+
+/* Images */
+
+.battleship {
+    margin-top: 50%;
+    transform: rotate(50deg);
+    width: 15%;
+}
+
+.ufo {
+    margin-left: 50%;
+    transform: rotate(20deg);
+    width: 15%;
+}
+
+/* Features Section */
+
+#features {
+    padding: 7% 7%;
+}
+
+.feature-box {
+    text-align-last: center;
+}
+
+.feature-icon {
+    color: #bedcfa;
+    margin: 3rem 0;
+}
+
+.feature-icon:hover {
+    color: #98acf8;
+}
+
+/* Testimonials section */
+
+#testimonials {
+    background-image: linear-gradient(to left bottom, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    padding: 7% 7%;
+}
+
+.testimonials-title {
+    color: #fff;
+    text-align: center;
+}
+
+/* Press */
+
+#press {
+    padding: 7% 7%;
+}
+
+/* Call-to-action section */
+
+#cta {
+    background-image: linear-gradient(to left bottom, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    padding: 7% 7%;
+}
+
+.download-title {
+    color: #fff;
+    text-align: center;
+}
+
+/* Footer section */
+
+#footer {
+    padding: 7% 7%;
+    text-align: center;
+}
+
+.contact-title {
+    color: #92967d;
+    margin: 3% 0;
+}
+
+.socialnetwork {
+    color: #92967d;
+    margin: 0 2% 3%;
+}
